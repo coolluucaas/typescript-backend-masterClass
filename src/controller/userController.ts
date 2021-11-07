@@ -8,4 +8,4 @@ class userController {
     }
 }
 
-export { userController }
+export { userController, users }
